@@ -1,7 +1,7 @@
 # myNodeBloy
 Nodejs+MongoDB+jQuery+Bootstrap-esj搭建的个人简易博客
 
-### 主要功能
+### 主要功能1
 - 前台 ：进入首页
   
   - 文章查看及文章分类：可自行在项目中增加自己喜欢的文章类型。
